@@ -1,0 +1,33 @@
+{
+    "name": "benkigroup/asnef-benkigroup-sdk",
+    "description": "An SDK to easily work with the Asnef Benkigroup API",
+    "keywords": [
+        "asnef",
+        "equifax",
+        "api",
+        "sdk"
+    ],
+    "require": {
+        "php": "^7.0",
+        "guzzlehttp/guzzle": "*",
+        "nesbot/carbon": "~1.0 || ~2.0"
+    },
+    "homepage": "https://github.com/antonioaberasturis/asnef-benkigroup-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antonio de Marcos Ramirez Aberasturis",
+            "email": "antonioaberasturis@gmail.com",
+            "homepage": "https://benkigroup.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Asnef\\Benkigroup\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
