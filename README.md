@@ -11,7 +11,7 @@ This SDK lets you perform API calls to [Asnef Benkigroup](https://asnef.bnk.mobi
 
 First, grab the latest stable version via composer.
 
-    composer require benkigroup/asnef-benkigroup-sdk
+    composer require antonioaberasturis/asnef-benkigroup-sdk
 
 Next, create an instance of the SDK. This takes token mandatory, parameter.
 
@@ -49,7 +49,7 @@ If you discover any security related issues, please email antonio@benkigroup.com
 
 ## Credits
 
-- [Antonio Ramírez Aberasturis.](https://github.com/benkigroup)
+- [Antonio Ramírez Aberasturis.](https://github.com/antonioaberasturis)
 - [Maikel Enrique Pernía](https://github.com/benkigroup)
 
 This package uses code from and is greatly inspired by the [Oh Dear SDK package](https://github.com/ohdearapp/ohdear-php-sdk) by [Freek Van der Herten](https://github.com/freekmurze).
